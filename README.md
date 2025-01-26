@@ -57,7 +57,7 @@
   <a href="https://www.instagram.com/official_poovarasan?utm_source=qr&igsh=eTV4d283Z3Brb3Fj" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="poovarasanv4444@gmail.com" target="_blank">
+  <a href="https://poovarasan46.github.io/Personal-Portfolio/contact.html" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/poovarasan-v-669930272" target="_blank">
